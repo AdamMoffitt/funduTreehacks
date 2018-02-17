@@ -1,0 +1,6 @@
+framework module Pods_fundu_ {
+  umbrella header "Pods-fundü-umbrella.h"
+
+  export *
+  module * { export * }
+}
